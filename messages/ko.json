@@ -1,0 +1,420 @@
+{
+  "metadata": {
+    "title": "YouTube 썸네일 다운로더 - HD, 4K 썸네일 무료 다운로드 | 2026",
+    "description": "무료 YouTube 썸네일 다운로더 2026. 4K, Full HD 1080p, 720p 품질로 YouTube 동영상 썸네일을 다운로드하세요. YouTube, Shorts 및 Vimeo에서 썸네일을 즉시 추출하세요. 가입이 필요 없습니다.",
+    "keywords": "youtube thumbnail downloader, download youtube thumbnail, youtube thumbnail grabber, youtube thumbnail saver, youtube video thumbnail download, 유튜브 썸네일 다운로드",
+    "ogTitle": "YouTube 썸네일 다운로더 - HD 및 4K 썸네일 무료 다운로드",
+    "ogDescription": "4K, Full HD 및 SD 품질의 YouTube 썸네일을 무료로 다운로드하세요.",
+    "ogImageAlt": "YouTube 썸네일 다운로더 미리보기",
+    "twitterTitle": "YouTube 썸네일 다운로더 - HD 및 4K 썸네일 무료 다운로드",
+    "twitterDescription": "4K, Full HD 및 SD 품질의 YouTube 썸네일을 무료로 다운로드하세요."
+  },
+  "navbar": {
+    "title": "YouTube 썸네일",
+    "shortTitle": "YT Thumb",
+    "downloader": "다운로더"
+  },
+  "home": {
+    "badges": {
+      "instantDownload": "즉시 다운로드",
+      "freeSecure": "100% 무료 및 보안",
+      "rating": "4.9/5 평점"
+    },
+    "hero": {
+      "title": "YouTube 썸네일 다운로더",
+      "subtitle": "무료 HD 및 4K 다운로드 도구",
+      "description": "4K Ultra HD, Full HD 1080p 및 표준 품질로 YouTube 썸네일을 무료로 다운로드하세요. 온라인에서 가장 빠르고 쉬운 YouTube 썸네일 그래버.",
+      "subDescription": "YouTube, YouTube Shorts 및 Vimeo 동영상에서 고품질 썸네일을 즉시 추출하세요. 가입이 필요 없습니다. 모든 기기에서 작동합니다."
+    },
+    "features": {
+      "quality": "4K 및 HD 품질",
+      "instant": "즉시 다운로드",
+      "noSignup": "가입 필요 없음",
+      "free": "100% 무료"
+    },
+    "platforms": {
+      "label": "지원",
+      "youtube": "YouTube 동영상",
+      "shorts": "YouTube Shorts",
+      "live": "라이브 스트림",
+      "vimeo": "Vimeo",
+      "more": "및 기타"
+    },
+    "cta": {
+      "tryNow": "지금 사용해 보세요 - 위에 YouTube URL을 붙여넣으세요"
+    }
+  },
+  "tool": {
+    "placeholder": "여기에 YouTube 동영상 URL 붙여넣기...",
+    "button": "썸네일 가져오기",
+    "processing": "처리 중...",
+    "error": "유효하지 않은 YouTube URL입니다. 링크를 확인하고 다시 시도해 주세요.",
+    "availableSizes": "사용 가능한 썸네일 크기",
+    "maxHd": "최대 HD (4K)",
+    "highDef": "고화질 (HD)",
+    "standard": "표준",
+    "medium": "중간",
+    "preview": "HD 미리보기",
+    "download": "다운로드",
+    "notAvailable": "사용 불가"
+  },
+  "seo": {
+    "howTo": {
+      "title": "3단계로 YouTube 썸네일을 다운로드하는 방법",
+      "description": "저희 무료 YouTube 썸네일 다운로더를 사용하면 고품질 동영상 썸네일을 매우 쉽게 추출하고 저장할 수 있습니다.",
+      "step1Title": "1단계: YouTube URL 복사",
+      "step1Desc": "브라우저나 앱에서 YouTube를 엽니다. 썸네일을 다운로드하려는 동영상을 찾습니다. 주소 표시줄에서 동영상 URL을 복사합니다.",
+      "step2Title": "2단계: 링크 붙여넣기",
+      "step2Desc": "YouTube 썸네일 다운로더 도구로 돌아옵니다. 복사한 URL을 위의 입력 상자에 붙여넣습니다.",
+      "step3Title": "3단계: 썸네일 다운로드",
+      "step3Desc": "원하는 해상도를 선택하고 다운로드를 클릭하여 썸네일을 기기에 저장합니다."
+    },
+    "features": {
+      "title": "왜 우리의 YouTube 썸네일 그래버를 사용해야 하나요?",
+      "description": "매력적인 썸네일은 YouTube에서 높은 클릭률(CTR)을 달성하는 데 가장 중요한 요소입니다.",
+      "fastTitle": "번개처럼 빠름",
+      "fastDesc": "몇 초 만에 YouTube 썸네일을 다운로드하세요. 대기 시간이나 처리 지연이 없습니다.",
+      "secureTitle": "100% 안전 및 보안",
+      "secureDesc": "서버에 데이터가 저장되지 않습니다. 귀하의 개인 정보 보호 및 보안이 최우선입니다.",
+      "worldwideTitle": "전 세계에서 작동",
+      "worldwideDesc": "어느 국가에서나 접속 가능합니다. 지리적 제한이나 VPN이 필요하지 않습니다.",
+      "mobileTitle": "모바일 친화적",
+      "mobileDesc": "iPhone, Android, iPad 및 모든 모바일 기기에서 완벽하게 작동합니다.",
+      "browsersTitle": "모든 브라우저",
+      "browsersDesc": "Chrome, Safari, Firefox, Edge 및 모든 최신 브라우저와 호환됩니다.",
+      "resolutionsTitle": "다양한 해상도",
+      "resolutionsDesc": "4K, Full HD 1080p, HD 720p 및 SD 품질의 썸네일을 다운로드하세요.",
+      "keyFeaturesTitle": "YouTube 썸네일 다운로드 도구의 주요 기능",
+      "f1": "4K Ultra HD 해상도 썸네일 지원",
+      "f2": "Full HD, HD 720p 및 SD 품질 이미지 다운로드",
+      "f3": "YouTube Shorts, 일반 동영상 및 라이브 스트림과 작동",
+      "f4": "Vimeo 동영상 썸네일 추출 지원",
+      "f5": "완전 무료 사용 - 숨겨진 비용 없음",
+      "f6": "가입이나 계정 등록 필요 없음",
+      "f7": "무제한 다운로드 - 일일 또는 월간 제한 없음",
+      "f8": "모든 기기에서 작동: iPhone, Android, Mac, Windows PC",
+      "f9": "안전한 추출 - 서버에 데이터 저장 안 함",
+      "f10": "즉시 다운로드를 위한 빠른 CDN 전송",
+      "f11": "소프트웨어 설치 필요 없음 - 100% 웹 기반",
+      "f12": "비공개 및 익명 - 다운로드를 추적하지 않음"
+    },
+    "resolutions": {
+      "title": "YouTube 썸네일 크기 및 해상도 설명",
+      "description": "YouTube 썸네일 크기를 이해하는 것은 콘텐츠 제작자에게 중요합니다.",
+      "quality": "품질",
+      "resolution": "해상도",
+      "bestFor": "용도",
+      "maxHdQuality": "최대 HD (4K)",
+      "maxHdRes": "1920 × 1080 픽셀",
+      "maxHdBest": "전문가용, 고품질 인쇄, 대형 디스플레이",
+      "hdQuality": "고화질 (HD)",
+      "hdRes": "640 × 480 픽셀",
+      "hdBest": "웹사이트, 블로그, 소셜 미디어 게시물",
+      "standardQuality": "표준 품질",
+      "standardRes": "480 × 360 픽셀",
+      "standardBest": "미리보기, 썸네일, 이메일 뉴스레터",
+      "mediumQuality": "중간 품질",
+      "mediumRes": "320 × 180 픽셀",
+      "mediumBest": "작은 미리보기, 모바일 앱, 자리 표시자"
+    },
+    "useCases": {
+      "title": "누가 YouTube 썸네일 다운로더를 사용하나요?",
+      "description": "저희 무료 YouTube 썸네일 그래버는 전 세계 수백만 명의 사람들이 사용합니다:",
+      "creatorsTitle": "콘텐츠 제작자 및 유튜버",
+      "creatorsDesc": "자신의 동영상 썸네일을 보관하고 틈새 시장에서 성공적인 디자인을 연구하세요.",
+      "marketersTitle": "디지털 마케터 및 대행사",
+      "marketersDesc": "경쟁사의 썸네일 전략을 분석하고 트렌디한 시각적 스타일을 조사하세요.",
+      "designersTitle": "그래픽 디자이너",
+      "designersDesc": "상위 채널에서 사용하는 썸네일 디자인 기술과 타이포그래피 선택을 연구하세요.",
+      "educatorsTitle": "교육자 및 학생",
+      "educatorsDesc": "연구 및 학술 프로젝트를 위해 교육용 동영상 썸네일을 저장하세요.",
+      "bloggersTitle": "블로거 및 웹사이트 소유자",
+      "bloggersDesc": "YouTube 콘텐츠가 포함된 동영상 모음 게시물 및 참고 자료를 만드세요.",
+      "socialTitle": "소셜 미디어 관리자",
+      "socialDesc": "소셜 미디어 게시물을 위한 콘텐츠를 큐레이팅하고 멀티 플랫폼 동영상 홍보를 관리하세요."
+    },
+    "faq": {
+      "title": "자주 묻는 질문 (FAQ)",
+      "q1": "YouTube 썸네일을 다운로드하는 것은 합법인가요?",
+      "a1": "네, 개인적인 용도, 영감 또는 교육 목적으로 YouTube 썸네일을 다운로드하는 것은 일반적으로 공정 사용에 따라 합법으로 간주됩니다.",
+      "q2": "YouTube Shorts에서 썸네일을 다운로드할 수 있나요?",
+      "a2": "물론입니다! 저희 도구는 YouTube Shorts, 일반 동영상, 라이브 스트림 및 일부 공개 동영상을 완벽하게 지원합니다.",
+      "q3": "왜 4K 썸네일 옵션을 사용할 수 없는 경우가 있나요?",
+      "a3": "모든 YouTube 동영상에 4K 해상도 썸네일이 있는 것은 아닙니다. 최대 해상도는 원본 동영상 품질에 따라 다릅니다.",
+      "q4": "iPhone과 Android에서 작동하나요?",
+      "a4": "네! 저희 도구는 iPhone, iPad, Android 폰, Mac 및 Windows PC를 포함한 모든 기기에서 완벽하게 작동합니다.",
+      "q5": "이 도구는 완전히 무료인가요?",
+      "a5": "네, 저희 YouTube 썸네일 다운로더는 숨겨진 비용 없이 100% 무료이며 다운로드 제한이 없습니다.",
+      "q6": "가장 좋은 YouTube 썸네일 크기는 무엇인가요?",
+      "a6": "권장 크기는 16:9 비율의 1280 × 720 픽셀이며 파일 크기는 2MB 미만입니다.",
+      "q7": "YouTube 동영상 URL은 어떻게 얻나요?",
+      "a7": "브라우저의 주소 표시줄에서 URL을 복사하거나 동영상 아래의 공유 버튼을 클릭하세요.",
+      "q8": "Vimeo 썸네일도 다운로드할 수 있나요?",
+      "a8": "네! 저희 도구는 YouTube와 Vimeo 동영상 플랫폼을 모두 지원합니다.",
+      "q9": "내 다운로드나 URL을 저장하나요?",
+      "a9": "아니요, 저희는 썸네일, URL 또는 개인 데이터를 서버에 저장하지 않습니다.",
+      "q10": "스크린샷 대신 이것을 사용하는 이유는 무엇인가요?",
+      "a10": "저희 도구는 압축된 스크린샷과 달리 종종 4K 해상도의 최고 품질 원본 이미지를 제공합니다."
+    },
+    "guide": {
+      "title": "YouTube 썸네일 완벽 가이드",
+      "p1": "YouTube 썸네일은 동영상 콘텐츠로 가는 시각적 관문입니다. 연구에 따르면 맞춤 썸네일은 클릭률을 최대 154%까지 높일 수 있습니다.",
+      "p2": "저희 도구는 콘텐츠 제작자와 마케터가 분석 및 영감을 위해 고품질 동영상 썸네일에 액세스할 수 있도록 돕습니다.",
+      "p3": "추출기는 표준 동영상, Shorts 및 라이브 스트림을 포함한 모든 주요 동영상 형식을 지원합니다.",
+      "p4": "다른 도구와 달리 저희 다운로더는 소프트웨어 설치 없이 브라우저에서 완전히 작동합니다."
+    },
+    "stats": {
+      "monthlyUsers": "월간 사용자",
+      "thumbnailsDownloaded": "다운로드된 썸네일",
+      "userRating": "사용자 평점",
+      "securePrivate": "보안 및 비공개"
+    }
+  },
+  "footer": {
+    "brandName": "YouTube 썸네일 다운로더",
+    "description": "가장 신뢰할 수 있는 무료 YouTube 썸네일 다운로더 도구. 4K, Full HD 1080p, 720p 및 SD 품질의 고품질 썸네일을 다운로드하세요.",
+    "free": "✓ 100% 무료",
+    "noRegistration": "✓ 가입 필요 없음",
+    "instant": "✓ 즉시 다운로드",
+    "legal": "법적 고지",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "서비스 약관",
+    "disclaimer": "면책 조항",
+    "popularSearches": "인기 검색어:",
+    "searchKeywords": "YouTube thumbnail downloader, download YouTube thumbnail, YouTube thumbnail grabber, thumbnail download HD, 4K thumbnail download",
+    "copyright": "YouTube 썸네일 다운로더. All rights reserved.",
+    "affiliateDisclaimer": "이 웹사이트는 YouTube, Google 또는 Alphabet Inc.와 제휴하지 않았습니다. YouTube™는 Google LLC의 상표입니다."
+  },
+  "about": {
+    "metadata": {
+      "title": "About Us - YouTube Thumbnail Downloader | Free HD & 4K Tool",
+      "description": "Learn about YouTube Thumbnail Downloader - the fastest and most reliable free tool to download YouTube video thumbnails in 4K, HD quality. Trusted by millions of users worldwide.",
+      "ogTitle": "About YouTube Thumbnail Downloader - Free HD & 4K Download Tool",
+      "ogDescription": "Discover why millions trust our free YouTube thumbnail downloader for high-quality thumbnail extraction."
+    },
+    "hero": {
+      "title": "About YouTube Thumbnail Downloader",
+      "description": "The <strong1>fastest and most reliable free tool</strong1> to download YouTube video thumbnails in 4K, Full HD, and SD quality. Trusted by content creators, marketers, and millions of users worldwide."
+    },
+    "stats": {
+      "downloads": {
+        "number": "10M+",
+        "label": "Thumbnails Downloaded"
+      },
+      "users": {
+        "number": "500K+",
+        "label": "Monthly Users"
+      },
+      "rating": {
+        "number": "4.9/5",
+        "label": "User Rating"
+      },
+      "free": {
+        "number": "100%",
+        "label": "Free Forever"
+      }
+    },
+    "story": {
+      "title": "Our Story",
+      "p1": "<strong1>YouTube Thumbnail Downloader</strong1> was born out of a simple need: content creators and marketers needed a fast, reliable, and free way to download high-quality YouTube thumbnails without complicated software or registration requirements.",
+      "p2": "As digital content continues to grow exponentially, thumbnails have become crucial for video success. They're the first thing viewers see, and a compelling thumbnail can dramatically increase click-through rates. Our <strong1>YouTube thumbnail grabber</strong1> makes it easy to:",
+      "list": {
+        "l1": "Study successful thumbnail designs for inspiration",
+        "l2": "Archive your own video thumbnails for portfolio purposes",
+        "l3": "Analyze competitor strategies in your niche",
+        "l4": "Create reaction content or video essays (with proper attribution)",
+        "l5": "Save thumbnails for offline reference and research"
+      },
+      "p3": "Today, our <strong1>free YouTube thumbnail downloader</strong1> serves over half a million users every month, processing millions of thumbnail downloads while maintaining lightning-fast speeds and 100% uptime."
+    },
+    "features": {
+      "title": "Why Choose Our Thumbnail Downloader?",
+      "subtitle": "We've built the best <strong1>YouTube thumbnail download</strong1> tool with features that matter most to our users.",
+      "fast": {
+        "title": "Lightning Fast",
+        "description": "Our YouTube thumbnail extractor processes your request in milliseconds, delivering instant results."
+      },
+      "secure": {
+        "title": "Safe & Secure",
+        "description": "No data stored on our servers. Your privacy is our priority. 100% secure thumbnail downloads."
+      },
+      "works": {
+        "title": "Works Everywhere",
+        "description": "Use our thumbnail downloader on any device - iPhone, Android, Mac, Windows, tablets, and more."
+      },
+      "creators": {
+        "title": "Built for Creators",
+        "description": "Designed by content creators who understand the need for quick, reliable thumbnail access."
+      }
+    },
+    "offer": {
+      "title": "What We Offer",
+      "items": {
+        "i1": "Download YouTube thumbnails in 4K Ultra HD (1920x1080) resolution",
+        "i2": "Extract HD quality thumbnails (640x480) for any video",
+        "i3": "Support for YouTube Shorts thumbnail downloads",
+        "i4": "Vimeo video thumbnail extraction",
+        "i5": "Multiple resolution options (4K, HD, SD, Medium)",
+        "i6": "No registration or signup required",
+        "i7": "Unlimited free downloads - no daily limits",
+        "i8": "Works on all browsers and devices",
+        "i9": "Fast, secure, and privacy-focused",
+        "i10": "Clean, ad-supported model to keep the service free"
+      }
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide the world's most reliable, fastest, and completely free <strong1>YouTube thumbnail downloader</strong1>. We believe in empowering content creators, marketers, and everyday users with the tools they need to succeed in the digital age."
+    },
+    "cta": {
+      "title": "Ready to Download Thumbnails?",
+      "description": "Try our <strong1>free YouTube thumbnail grabber</strong1> now and experience the fastest thumbnail downloads on the web.",
+      "button": "Start Downloading - It's Free"
+    }
+  },
+  "disclaimer": {
+    "metadata": {
+      "title": "Disclaimer - YouTube Thumbnail Downloader",
+      "description": "Important disclaimer regarding the use of YouTube Thumbnail Downloader. Understand copyright implications, fair use, and your responsibilities when downloading YouTube thumbnails.",
+      "ogTitle": "Disclaimer - YouTube Thumbnail Downloader",
+      "ogDescription": "Important legal disclaimer for using our YouTube thumbnail download service."
+    },
+    "title": "Disclaimer",
+    "lastUpdated": "Last Updated: January 2, 2026",
+    "notice": {
+      "title": "⚠️ Important Notice",
+      "content": "YouTube Thumbnail Downloader is an independent tool and is <strong1>NOT affiliated with, endorsed by, or sponsored by YouTube, Google, or any of their subsidiaries</strong1>. YouTube™ is a registered trademark of Google LLC."
+    },
+    "sections": {
+      "fairUse": {
+        "title": "Fair Use & Copyright",
+        "p1": "Our tool is designed to help users download thumbnails for <strong1>personal use, educational purposes, and fair use</strong1> contexts. However, the thumbnails themselves are the intellectual property of the respective video creators or copyright holders.",
+        "p2": "When you download a thumbnail using our service, you agree that:",
+        "list": {
+          "l1": "You will not use the downloaded thumbnails for any commercial purpose without permission from the copyright holder.",
+          "l2": "You will respect the intellectual property rights of the content creators.",
+          "l3": "You are solely responsible for any copyright infringement or legal issues arising from your use of the downloaded images.",
+          "l4": "You will not claim ownership of any thumbnail downloaded through our tool."
+        }
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "p1": "YouTube Thumbnail Downloader is provided \"as is\" without any warranties, express or implied. We do not guarantee that the service will be uninterrupted, error-free, or completely secure.",
+        "p2": "In no event shall YouTube Thumbnail Downloader, its operators, or affiliates be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of our service or the inability to use it."
+      },
+      "externalLinks": {
+        "title": "External Links",
+        "content": "Our website may contain links to third-party websites or services that are not owned or controlled by us. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party websites or services."
+      },
+      "changes": {
+        "title": "Changes to Disclaimer",
+        "content": "We reserve the right to modify this disclaimer at any time. We encourage visitors to frequently check this page for any changes. Your continued use of this site after any change in this disclaimer will constitute your acceptance of such change."
+      }
+    }
+  },
+  "privacyPolicy": {
+    "metadata": {
+      "title": "Privacy Policy - YouTube Thumbnail Downloader",
+      "description": "Read our privacy policy to understand how YouTube Thumbnail Downloader collects, uses, and protects your personal information. We prioritize your privacy and data security.",
+      "ogTitle": "Privacy Policy - YouTube Thumbnail Downloader",
+      "ogDescription": "Learn about our privacy practices and how we protect your data."
+    },
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: January 2, 2026",
+    "sections": {
+      "intro": {
+        "title": "Introduction",
+        "p1": "Welcome to YouTube Thumbnail Downloader (\"we,\" \"our,\" or \"us\"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our <strong1>free YouTube thumbnail downloader</strong1> service.",
+        "p2": "Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site."
+      },
+      "collection": {
+        "title": "Information We Collect",
+        "p1": "We prioritize user privacy and collect minimal data necessary to provide our service.",
+        "subtitle1": "Personal Data",
+        "p2": "We <strong1>DO NOT</strong1> require registration, account creation, or personal information (such as name, email address, or phone number) to use our YouTube thumbnail downloader tool.",
+        "subtitle2": "Usage Data",
+        "p3": "Like most websites, we may automatically collect certain information when you visit our site, including:",
+        "list": {
+          "l1": "IP address (anonymized where possible)",
+          "l2": "Browser type and version",
+          "l3": "Operating system",
+          "l4": "Time and date of your visit",
+          "l5": "Pages visited and time spent on those pages",
+          "l6": "Referring website addresses"
+        }
+      },
+      "cookies": {
+        "title": "Cookies and Tracking Technologies",
+        "p1": "We use cookies and similar tracking technologies to track the activity on our service and hold certain information. Cookies are files with small amount of data which may include an anonymous unique identifier.",
+        "p2": "We use Google Analytics to understand how our website is being used in order to improve the user experience. Google Analytics uses cookies to collect information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site."
+      },
+      "use": {
+        "title": "How We Use Your Information",
+        "p1": "We use the collected information for various purposes:",
+        "list": {
+          "l1": "To provide and maintain our Service",
+          "l2": "To monitor the usage of our Service",
+          "l3": "To detect, prevent and address technical issues",
+          "l4": "To improve our website and user experience"
+        }
+      },
+      "security": {
+        "title": "Data Security",
+        "content": "The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security."
+      },
+      "ads": {
+        "title": "Advertising",
+        "content": "We may use third-party Service Providers to show advertisements to you to help support and maintain our Service. These third parties may use cookies or similar technologies to gather information about your activities on this and other websites to provide you with advertising based upon your browsing activities and interests."
+      },
+      "children": {
+        "title": "Children's Privacy",
+        "content": "Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13."
+      }
+    }
+  },
+  "termsOfService": {
+    "metadata": {
+      "title": "Terms of Service - YouTube Thumbnail Downloader",
+      "description": "Read our terms of service to understand the rules and guidelines for using YouTube Thumbnail Downloader. Learn about acceptable use, intellectual property, and user responsibilities.",
+      "ogTitle": "Terms of Service - YouTube Thumbnail Downloader",
+      "ogDescription": "Terms and conditions for using our free YouTube thumbnail download tool."
+    },
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: January 2, 2026",
+    "sections": {
+      "agreement": {
+        "title": "Agreement to Terms",
+        "p1": "Welcome to YouTube Thumbnail Downloader. These Terms of Service (\"Terms\") govern your use of our website and the <strong1>free YouTube thumbnail downloader</strong1> service (collectively, the \"Service\").",
+        "p2": "By accessing or using the Service, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access the Service."
+      },
+      "use": {
+        "title": "Use of Service",
+        "p1": "Our service allows you to download thumbnails from YouTube videos. You agree to use the Service only for purposes that are permitted by these Terms and any applicable law, regulation, or generally accepted practices or guidelines in the relevant jurisdictions.",
+        "p2": "You agree not to:",
+        "list": {
+          "l1": "Use the Service for any illegal or unauthorized purpose.",
+          "l2": "Attempt to disrupt or overload our servers or networks.",
+          "l3": "Use any automated means (bots, scrapers, etc.) to access the Service without our permission.",
+          "l4": "Download thumbnails that you do not have the right to use."
+        }
+      },
+      "ip": {
+        "title": "Intellectual Property",
+        "p1": "The Service and its original content, features, and functionality are and will remain the exclusive property of YouTube Thumbnail Downloader and its licensors. The Service is protected by copyright, trademark, and other laws.",
+        "p2": "The thumbnails you download are the intellectual property of their respective owners (the YouTube video creators). We do not claim ownership of any thumbnails downloaded through our Service."
+      },
+      "termination": {
+        "title": "Termination",
+        "content": "We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms."
+      },
+      "changes": {
+        "title": "Changes to Terms",
+        "content": "We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "content": "If you have any questions about these Terms, please contact us."
+      }
+    }
+  }
+}
