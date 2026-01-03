@@ -129,11 +129,11 @@ export default async function LocaleLayout({
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/manifest.json" />
         {/* Canonical link */}
-        <link rel="canonical" href={canonical} />
+        {/* <link rel="canonical" href={canonical} /> */}
         {/* Hreflang alternates */}
-        {Object.entries(languages).map(([lang, href]) => (
+        {/* {Object.entries(languages).map(([lang, href]) => (
           <link key={lang} rel="alternate" hrefLang={lang} href={href} />
-        ))}
+        ))} */}
       </head>
       <body className="antialiased">
         <NextIntlClientProvider messages={messages}>
