@@ -111,13 +111,15 @@ export default async function LocaleLayout({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  
   // Validate locale
   if (!locales.includes(locale as Locale)) {
     notFound();
   }
 
   const messages = await getMessages();
+
+  // Build canonical and hreflang links
+  const { canonical, languages } = buildLocalizedAlternates(locale as Locale);
 
   return (
     <html lang={locale} dir={locale === 'ar' ? 'rtl' : 'ltr'}>
@@ -126,6 +128,12 @@ export default async function LocaleLayout({
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/manifest.json" />
+        {/* Canonical link */}
+        <link rel="canonical" href={canonical} />
+        {/* Hreflang alternates */}
+        {Object.entries(languages).map(([lang, href]) => (
+          <link key={lang} rel="alternate" hrefLang={lang} href={href} />
+        ))}
       </head>
       <body className="antialiased">
         <NextIntlClientProvider messages={messages}>
